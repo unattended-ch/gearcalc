@@ -2,7 +2,7 @@
 
 ## GearCalc
 
-### Gear calculation fpr motorcycles
+### Gear calculation for motorcycles
 
 [![Downloads](https://img.shields.io/github/last-commit/unattended-ch/gearcalc?style=for-the-badge&color=green)](https://github.com/unattended-ch/gearcalc/releases/latest)
 [![Downloads](https://img.shields.io/github/license/unattended-ch/gearcalc?style=for-the-badge&color=darkgreen)](https://github.com/unattended-ch/gearcalc/releases/latest)
@@ -10,10 +10,10 @@
 [![Release version](https://img.shields.io/github/v/release/unattended-ch/gearcalc?label=&style=for-the-badge)](https://github.com/unattended-ch/gearcalc/releases/latest)
 [![Downloads](https://img.shields.io/github/downloads/unattended-ch/gearcalc/total?style=for-the-badge&color=blue)](https://github.com/unattended-ch/gearcalc/releases/)
 
-[![Windows](https://img.shields.io/badge/-Windows_x64-blue.svg?style=for-the-badge&logo=windows)](https://github.com/unattended-ch/gearcalc/releases/latest/download/gearcalc-full_1.0.0.4_win64.exe)
-[![Ubuntu](https://img.shields.io/badge/-Ubuntu_x64-brightgreen.svg?style=for-the-badge&logo=linux)](https://github.com/unattended-ch/gearcalc/releases/latest/download/gearcalc-full_1.0.0.4_amd64.deb)
-[![Raspi3](https://img.shields.io/badge/-Raspi_ARMHF-maroon.svg?style=for-the-badge&logo=linux)](https://github.com/unattended-ch/gearcalc/releases/latest/download/gearcalc-full_1.0.0.4_armhf.deb)
-[![Raspi4](https://img.shields.io/badge/-Raspi_ARM64-orange.svg?style=for-the-badge&logo=linux)](https://github.com/unattended-ch/gearcalc/releases/latest/download/gearcalc-full_1.0.0.4_arm64.deb)
+[![Windows](https://img.shields.io/badge/-Windows_x64-blue.svg?style=for-the-badge&logo=windows)](https://github.com/unattended-ch/gearcalc/releases/latest/download/gearcalc-full_1.0.0.5_win64.exe)
+[![Ubuntu](https://img.shields.io/badge/-Ubuntu_x64-brightgreen.svg?style=for-the-badge&logo=linux)](https://github.com/unattended-ch/gearcalc/releases/latest/download/gearcalc-full_1.0.0.5_amd64.deb)
+[![Raspi3](https://img.shields.io/badge/-Raspi_ARMHF-maroon.svg?style=for-the-badge&logo=linux)](https://github.com/unattended-ch/gearcalc/releases/latest/download/gearcalc-full_1.0.0.5_armhf.deb)
+[![Raspi4](https://img.shields.io/badge/-Raspi_ARM64-orange.svg?style=for-the-badge&logo=linux)](https://github.com/unattended-ch/gearcalc/releases/latest/download/gearcalc-full_1.0.0.5_arm64.deb)
 
 [![Lazarus](https://img.shields.io/badge/-Lazarus_2.2.4-yellow.svg?style=for-the-badge)](https://sourceforge.net/projects/lazarus/files/Lazarus%20Linux%20amd64%20DEB/Lazarus%202.2.4/)
 [![Fpc](https://img.shields.io/badge/-FPC_3.2.2-yellow.svg?style=for-the-badge)](https://www.freepascal.org/download.html)
@@ -97,12 +97,12 @@
 
 <div align="center">
 
-[![Downloads](https://img.shields.io/github/downloads/unattended-ch/gearcalc/v1.0.0.4/total?style=for-the-badge&color=blue)](https://github.com/unattended-ch/gearcalc/releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/unattended-ch/gearcalc/v1.0.0.5/total?style=for-the-badge&color=blue)](https://github.com/unattended-ch/gearcalc/releases/latest)
 
-[![Windows](https://img.shields.io/badge/-Windows_x64-blue.svg?style=for-the-badge&logo=windows)](https://github.com/unattended-ch/gearcalc/releases/latest/download/gearcalc-full_1.0.0.4_win64.exe)
-[![Ubuntu](https://img.shields.io/badge/-Ubuntu_x64-brightgreen.svg?style=for-the-badge&logo=linux)](https://github.com/unattended-ch/gearcalc/releases/latest/download/gearcalc-full_1.0.0.4_amd64.deb)
-[![Raspi3](https://img.shields.io/badge/-Raspi_ARMHF-maroon.svg?style=for-the-badge&logo=linux)](https://github.com/unattended-ch/gearcalc/releases/latest/download/gearcalc-full_1.0.0.4_armhf.deb)
-[![Raspi4](https://img.shields.io/badge/-Raspi_ARM64-orange.svg?style=for-the-badge&logo=linux)](https://github.com/unattended-ch/gearcalc/releases/latest/download/gearcalc-full_1.0.0.4_arm64.deb)
+[![Windows](https://img.shields.io/badge/-Windows_x64-blue.svg?style=for-the-badge&logo=windows)](https://github.com/unattended-ch/gearcalc/releases/latest/download/gearcalc-full_1.0.0.5_win64.exe)
+[![Ubuntu](https://img.shields.io/badge/-Ubuntu_x64-brightgreen.svg?style=for-the-badge&logo=linux)](https://github.com/unattended-ch/gearcalc/releases/latest/download/gearcalc-full_1.0.0.5_amd64.deb)
+[![Raspi3](https://img.shields.io/badge/-Raspi_ARMHF-maroon.svg?style=for-the-badge&logo=linux)](https://github.com/unattended-ch/gearcalc/releases/latest/download/gearcalc-full_1.0.0.5_armhf.deb)
+[![Raspi4](https://img.shields.io/badge/-Raspi_ARM64-orange.svg?style=for-the-badge&logo=linux)](https://github.com/unattended-ch/gearcalc/releases/latest/download/gearcalc-full_1.0.0.5_arm64.deb)
 
 </div>
     
