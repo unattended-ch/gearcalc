@@ -41,6 +41,7 @@
       <ul>
       <li><a href="#mainwindow">Main</a></li>
       <li><a href="#reportwindows">Report</a></li>
+      <li><a href="#machinewindows">Machine</a></li>
       <li><a href="#configwindows">Config</a></li>
       </ul>
     </li>
@@ -52,7 +53,7 @@
 <a name="windows"></a>
 ## WINDOWS
 <a name="mainwindow"></a>
-### :computer: Main-Window
+### :computer: Main Window
 ![Main Page](/res/main-window.png)
 
    [goto TOC](#toc)
@@ -68,6 +69,11 @@
 <a name="reportwindows"></a>
 ## :computer: Report Window
 ![Main Page](/res/report-window.png)
+
+
+<a name="machinewindows"></a>
+## :computer: Machine Window
+![Main Page](/res/machine-window.png)
 
 
 <a name="configwindows"></a>
@@ -88,7 +94,6 @@
        - Ubuntu full installer package with tools    (gearcalc-full_VERSION_amd64.deb)
        - Raspi3 full installer package with tools    (gearcalc-full_VERSION_armhf.deb)
        - Raspi4 full installer package with tools    (gearcalc-full_VERSION_arm64.deb)
-       - MacOS full installer package with tools     (gearcalc-full_VERSION_mac64.dmg)
 
 <div align="center">
 
@@ -98,7 +103,6 @@
 [![Ubuntu](https://img.shields.io/badge/-Ubuntu_x64-brightgreen.svg?style=for-the-badge&logo=linux)](https://github.com/unattended-ch/gearcalc/releases/latest/download/gearcalc-full_1.0.0.4_amd64.deb)
 [![Raspi3](https://img.shields.io/badge/-Raspi_ARMHF-maroon.svg?style=for-the-badge&logo=linux)](https://github.com/unattended-ch/gearcalc/releases/latest/download/gearcalc-full_1.0.0.4_armhf.deb)
 [![Raspi4](https://img.shields.io/badge/-Raspi_ARM64-orange.svg?style=for-the-badge&logo=linux)](https://github.com/unattended-ch/gearcalc/releases/latest/download/gearcalc-full_1.0.0.4_arm64.deb)
-[![MacOS](https://img.shields.io/badge/-MacOS_x64-lightblue.svg?style=for-the-badge&logo=apple)](https://github.com/unattended-ch/gearcalc/releases/latest/download/gearcalc-full_1.0.0.4_mac64.dmg)
 
 </div>
     
